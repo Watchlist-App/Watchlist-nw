@@ -1,0 +1,22 @@
+{
+  "name": "Watchlist-nw",
+  "version": "0.0.0",
+  "description": "Watchlist app node-webkit desktop client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Watchlist-App/Watchlist-nw.git"
+  },
+  "keywords": [
+    "node-webkit"
+  ],
+  "author": "Dmitry Mazuro <dmitry.mazuro@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Watchlist-App/Watchlist-nw/issues"
+  },
+  "homepage": "https://github.com/Watchlist-App/Watchlist-nw"
+}
